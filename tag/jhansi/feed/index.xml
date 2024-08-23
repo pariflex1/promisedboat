@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jhansi &#8211; Promised Boat Events</title>
+	<atom:link href="https://www.promisedboat.com/tag/jhansi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.promisedboat.com/</link>
+	<description>Event Planner</description>
+	<lastBuildDate>Fri, 23 Aug 2024 10:35:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://www.promisedboat.com/wp-content/uploads/2023/01/elementor/thumbs/Logo-qsqjt0gahj5rdohqbeh3znel3ieuy6sawpu96b03jc.webp</url>
+	<title>Jhansi &#8211; Promised Boat Events</title>
+	<link>https://www.promisedboat.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
