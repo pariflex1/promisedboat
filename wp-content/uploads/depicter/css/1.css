@@ -1,0 +1,160 @@
+
+.depicter-1:not(.depicter-ready){
+	height:660px;
+}
+.depicter-revert.depicter-1 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-1-element-9{
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-9:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-9:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-1-element-9 .depicter-arrow-icon{
+	fill:#000;
+	transition:all ease 0.5s;
+}
+.depicter-1-element-9:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#2176F5;
+}
+.depicter-revert .depicter-1-element-10{
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-10:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-10:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-1-element-10 .depicter-arrow-icon{
+	fill:#000;
+	transition:all ease 0.5s;
+}
+.depicter-1-element-10:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#2176F5;
+}
+.depicter-revert .depicter-1-element-19{
+	padding:5px 18px 5px 18px;
+	font-size:14px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:700;
+	background-color:#ffffff;
+	border-radius:19px;
+}
+.depicter-revert .depicter-1-element-6{
+	font-size:50px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:145%;
+}
+.depicter-revert .depicter-1-element-6:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-6:not(.depicter-hover-off):hover {
+	color:#000000;
+}
+.depicter-revert .depicter-1-element-5{
+	background-color:#fa8702;
+	border-radius:0px 700px 0px 0px;
+}
+.depicter-revert .depicter-1-section-1{
+	background-color:#F9EBDB;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-1:not(.depicter-ready){
+	height:520px;
+}
+.depicter-revert .depicter-1-element-9{
+	background-color:rgba(0, 0, 0, 0.3);
+}
+.depicter-revert .depicter-1-element-9:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-9:not(.depicter-hover-off):hover {
+	background-color:#000000;
+}
+.depicter-1-element-9 .depicter-arrow-icon{
+	fill:#ffffff;
+	transition:all ease 0.5s;
+}
+.depicter-1-element-9:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-1-element-10{
+	background-color:rgba(0, 0, 0, 0.3);
+}
+.depicter-revert .depicter-1-element-10:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-10:not(.depicter-hover-off):hover {
+	background-color:#000000;
+}
+.depicter-1-element-10 .depicter-arrow-icon{
+	fill:#ffffff;
+	transition:all ease 0.5s;
+}
+.depicter-1-element-10:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-1-element-6{
+	font-size:50px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:145%;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1:not(.depicter-ready){
+	height:610px;
+}
+.depicter-revert .depicter-1-element-9{
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-9:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-1-element-9 .depicter-arrow-icon{
+	fill:#ffffff;
+	transition:all ease 0.5s;
+}
+.depicter-1-element-9:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-10{
+	background-color:transparent;
+}
+.depicter-1-element-10 .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-1-element-10:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-6{
+	font-size:50px;
+	text-align:left;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:145%;
+}
+.depicter-revert .depicter-1-element-5{
+	border-radius:0px 0px 0px 0px;
+}
+
+}
